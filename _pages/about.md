@@ -8,14 +8,23 @@ redirect_from:
   - /about.html
 ---
 
-I am Hoeseok, an Associate Professor at Santa Clara University in the Department of Electrical and Computer Engineering.
+I am Hoeseok, an Associate Professor at [Santa Clara University](https://www.scu.edu/) in the [Department of Electrical and Computer Engineering](https://www.scu.edu/engineering/academic-programs/department-of-electrical-engineering/).
+
+Short Bio
+----
+Hoeseok Yang received the B.S. degree in Computer Science and Engineering and the Ph.D. degree in Electrical Engineering and Computer Science from Seoul National University, Seoul, South Korea, in 2003 and 2010, respectively. He is currently an Associate Professor in the Department of Electrical and Computer Engineering at Santa Clara University, United States. Before that, he was with Ajou University, South Korea, as an Assistant/Associate Professor from 2014 to 2021. He was a Postdoctoral Researcher with the D-ITET, ETH Zürich, Zürich, Switzerland, from 2010 to 2014. 
+
+He has been a Technical Program Committee member of several conferences or workshops, including the Asia and South Pacific Design Automation Conference (ASP-DAC), the Asia Pacific Conference on Circuits and Systems (APCCAS), the International Conference on Embedded and Ubiquitous Computing (EUC), the International Conference on Embedded Computer Systems: Architectures, Modeling, and Simulation (SAMOS), the Symposium on Embedded Systems for Real-Time Multimedia (ESTIMedia), and the International Workshop on Rapid System Prototyping (RSP). He has also served Embedded Systems Week (ESWEEK) from 2019 as an Organizing Committee member. He was a recipient of the Best Paper Award at the International Conference on Compilers, Architectures, and Synthesis of Embedded Systems (CASES), in 2012.
 
 Research Interests
-====
-* a
-* b
-* c
+----
+- Hardware-Software Co-design
+- Model-based Design of Embedded or Domain-Specific Systems
+- Embedded Machine Learning
+- Security Concerns in Machine Learning
 
+
+<!--
 A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
@@ -54,3 +63,4 @@ Example: editing a markdown file for a talk
 For more info
 ------
 More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+-->
