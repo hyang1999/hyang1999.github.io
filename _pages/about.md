@@ -25,7 +25,7 @@ Research Interests
 
 How to pronounce my name
 ----
-Many people ask me how to pronounce my name. The English spelling of my name is "Hoeseok", which can be broken down into two Korean syllables "회 (hoe)" and "석 (seok)". The first sylablle "hoe" is pronounced similarly to the German word 'hö' (with an umlaut), but unfortunately, there is no exact equivalent in English. The easiest way to pronounce it is to separate the 'ho' and 'e,' as in [ho] and [ɛ]. The second syllable "seok" is pronounced close to the English phonetic symbol [sʌk], but in its original Korean form, the consonant 'ㅅ' sound is actually a bit softer than 's'. In short, it is just like [ho.ɛ.sʌk] with a slightly more relaxed pronunciation of 's'.
+Many people ask me how to pronounce my name. The English spelling of my name is "Hoeseok", which can be broken down into two Korean syllables "회 (hoe)" and "석 (seok)". The first sylablle "hoe" is pronounced similarly to the German word 'hö' (with an umlaut), but unfortunately, there is no exact equivalent in English. The easiest way to pronounce it is to separate the 'ho' and 'e,' as in \[ho\] and \[ɛ\]. The second syllable "seok" is pronounced close to the English phonetic symbol \[sʌk\], but in its original Korean form, the consonant 'ㅅ' sound is actually a bit softer than 's'. In short, it is just like \[ho.ɛ.sʌk\] with a slightly more relaxed pronunciation of 's'. [m4a]
 
 <!--
 A data-driven personal website
