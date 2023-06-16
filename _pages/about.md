@@ -23,6 +23,9 @@ Research Interests
 - Embedded Machine Learning
 - Security Concerns in Machine Learning
 
+How to pronounce my name
+----
+Many people ask me how to pronounce my name. The English spelling of my name is "Hoeseok", which can be decomposed into two Korean syllables "회 (oe)" and "석 (seok)". "Hoe" is pronounced similarly to the German word 'hö' (with an umlaut), but unfortunately, there is no exact equivalent in English. The easiest way to pronounce it is by separating the 'Ho' and 'e,' like 'Ho-e'. "Seok" is pronounced close to the English phonetic symbol [sʌk], but in its original Korean form, the 's' sound is actually a bit softer. To sum up, it is just like [ho.e.sʌk].
 
 <!--
 A data-driven personal website
