@@ -10,6 +10,10 @@ redirect_from:
 
 I am Hoeseok, an Associate Professor at [Santa Clara University](https://www.scu.edu/) in the [Department of Electrical and Computer Engineering](https://www.scu.edu/engineering/academic-programs/department-of-electrical-engineering/).
 
+We are hiring!
+----
+I am looking for a motivated prospective Master's or Doctoral (Ph.D.) student in the field of Hardware-Software Co-Design of Large Language Models. See here for details. 
+
 Short Bio
 ----
 Hoeseok Yang received the B.S. degree in Computer Science and Engineering and the Ph.D. degree in Electrical Engineering and Computer Science from Seoul National University, Seoul, South Korea, in 2003 and 2010, respectively. He is currently an Associate Professor in the Department of Electrical and Computer Engineering at Santa Clara University, United States. Before that, he was with Ajou University, South Korea, as an Assistant/Associate Professor from 2014 to 2021. He was a Postdoctoral Researcher with the D-ITET, ETH Zürich, Zürich, Switzerland, from 2010 to 2014. 
