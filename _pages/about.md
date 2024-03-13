@@ -12,7 +12,7 @@ I am Hoeseok, an Associate Professor at [Santa Clara University](https://www.scu
 
 We are hiring!
 ----
-I am looking for a motivated prospective Master's or Doctoral (Ph.D.) student in the field of Hardware-Software Co-Design of Large Language Models. See [here](../files/phd_flyer_hyang_scu_March_2024.pdf) for details.  
+I am looking for a motivated prospective **Master's or Doctoral (Ph.D.) student in the field of Hardware-Software Co-Design of Large Language Models**. See [here](../files/phd_flyer_hyang_scu_March_2024.pdf) for details.  
 
 Short Bio
 ----
