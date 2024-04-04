@@ -10,9 +10,10 @@ redirect_from:
 
 I am Hoeseok, an Associate Professor at [Santa Clara University](https://www.scu.edu/) in the [Department of Electrical and Computer Engineering](https://www.scu.edu/engineering/academic-programs/department-of-electrical-engineering/).
 
-We are hiring!
+<!--We are hiring!
 ----
 I am looking for a motivated prospective **Master's or Doctoral (Ph.D.) student in the field of Hardware-Software Co-Design of Large Language Models**. See [here](../files/phd_flyer_hyang_scu_March_2024.pdf) for details.  
+-->
 
 Short Bio
 ----
