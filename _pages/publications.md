@@ -21,6 +21,9 @@ You can find the full list of my articles on [my Google Scholar profile](https:/
 
 Selected Publications
 ----
+* Hokeun Kim, Younghyun Kim, and Hoeseok Yang, "Platform Design for Privacy-Preserving Federated Learning using Homomorphic Encryption," Forum on Specification, Verification and Design Languages (FDL), September, 2024. [[link]](https://ieeexplore.ieee.org/abstract/document/10673864)
+* Sean Even, Holden Gordon, Hoeseok Yang, and Yasemin Ozkan-Aydin, "Machine Learning-Driven Burrowing with a Snake-Like Robot," IEEE International Conference on Robotics and Automation (ICRA), May, 2024. [[link]](https://ieeexplore.ieee.org/abstract/document/10610264)
+* Jeonggyu Jang and Hoeseok Yang, "A Runtime Switchable Multi-Phase Convolutional Neural Network for Resource-Constrained Systems," IEEE Access, Volume 11, Pages 62449-62461, June, 2023. [[link]](https://ieeexplore.ieee.org/abstract/document/10156849)
 * Jangryul Kim, Kangkyu Park, Hoeseok Yang, and Soonhoi Ha, "Adaptive run-time scheduling of dependent services for service-oriented IoT systems," Design Automation for Embedded Systems, Volume 25, Pages 265–295, July 07, 2021. [[link]](https://link.springer.com/article/10.1007/s10617-021-09253-x)
 * Hyung-Chan An and Hoeseok Yang, "Fully Adaptive Stochastic Handling of Soft-Errors in Real-Time Systems," IEEE Access, Volume 9, Pages 155058-155071, November 16, 2021. [[link]](https://ieeexplore.ieee.org/abstract/document/9615233)
 * Kyusik Choi and Hoeseok Yang, "A GPU Architecture Aware Fine-Grain Pruning Technique for Deep Neural Networks," in Proceedings of European Conference on Parallel Processing (Euro-Par 2021), Pages 217-231, September 1, 2021. [[link]](https://link.springer.com/chapter/10.1007/978-3-030-85665-6_14)
