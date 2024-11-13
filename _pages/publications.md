@@ -21,6 +21,7 @@ You can find the full list of my articles on [my Google Scholar profile](https:/
 
 Selected Publications
 ----
+* Jiho Shin, Hoeseok Yang, and Youngmin Yi, "<em>SparseInfer</em>: Training-free Prediction of Activation Sparsity for Fast LLM Inference," to appear in Proceedings of 2025 Design, Automation & Test in Europe Conference & Exhibition (DATE), 2025.
 * Hokeun Kim, Younghyun Kim, and Hoeseok Yang, "Platform Design for Privacy-Preserving Federated Learning using Homomorphic Encryption," Forum on Specification, Verification and Design Languages (FDL), September, 2024. [[link]](https://ieeexplore.ieee.org/abstract/document/10673864)
 * Sean Even, Holden Gordon, Hoeseok Yang, and Yasemin Ozkan-Aydin, "Machine Learning-Driven Burrowing with a Snake-Like Robot," IEEE International Conference on Robotics and Automation (ICRA), May, 2024. [[link]](https://ieeexplore.ieee.org/abstract/document/10610264)
 * Jeonggyu Jang and Hoeseok Yang, "A Runtime Switchable Multi-Phase Convolutional Neural Network for Resource-Constrained Systems," IEEE Access, Volume 11, Pages 62449-62461, June, 2023. [[link]](https://ieeexplore.ieee.org/abstract/document/10156849)
