@@ -16,6 +16,7 @@ Please note that most funding applications for summer research are due in Februa
 To determine your eligibility for these opportunities, visit the following pages:
 * [Single Portal for Undergraduate Research](https://www.scu.edu/provost/research/student-funding-opportunities/scuspur/)
 * [Kuehler Undergraduate Research](https://www.scu.edu/engineering/labs--research/research/kuehler-undergraduate-research/)
+
 If you are eligible, I encourage you to contact me to discuss your interest in summer research at least two weeks before the application deadline.
 Please keep in mind that there is typically a limit on the number of proposals each faculty member can submit.
 Therefore, I will have to screen applicants based on their motivation and the specificity of their research ideas.
