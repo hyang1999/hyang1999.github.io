@@ -23,25 +23,9 @@ Therefore, I will have to screen applicants based on their motivation and the sp
 
 
 
-Work experience
+SCU Master’s Students Seeking Advice on Program of Study
 -----
-* Apr. 2010 -- Feb. 2014, ETH Zürich (Zürich, Switzerland)
-  * Postdoctoral Fellow
-  * Supervisor: Prof. Dr. Lothar Thiele
-
-* Mar. 2014 -- Feb. 2018, Ajou University (Suwon, South Korea) 
-  * Assistant Professor
-  * Department of Electrical and Computer Engineering
- 
-* Mar. 2018 -- Dec. 2021, Ajou University (Suwon, South Korea) 
-  * Associate Professor
-  * Department of Electrical and Computer Engineering
-
-* Jan. 2020 -- Jan. 2021, University of Wisconsin-Madison (Madison, WI)
-  * Honorary Fellow
-  * Department of Electrical and Computer Engineering
-
-* Jan. 2022 -- Present, Santa Clara University (Santa Clara, CA) 
-  * Associate Professor
-  * Department of Electrical and Computer Engineering
+If you are a Master’s student in the Electrical and Computer Engineering (ECEN) department and have selected <em>Digital Systems</em? as your primary area of focus, it is required that you work with me to develop your Program of Study (PoS). You can download the PoS form [here](https://www.scu.edu/media/school-of-engineering/pdfs/graduate-engineering/ECEN-ENGINEERING-CORE-POS-FALL-2024.pdf).
+Please create a draft version of your PoS and schedule an in-person meeting with me to review it. This will ensure that your plan aligns with your academic and career goals while meeting department requirements. When drafting your Program of Study, keep the following considerations in mind:
+1. Graduate Core Requirements: You must take at least one course from the two graduate core areas (minimum 4 units). You can find the list of the coureses [here](https://www.scu.edu/bulletin/graduate/school-of-engineering/chapter-6-graduate-core-requirements-and-graduate-engineering.html#aca8c2afbf0e).
 
