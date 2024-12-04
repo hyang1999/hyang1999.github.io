@@ -4,7 +4,7 @@ title: "For Students"
 permalink: /students/
 author_profile: true
 redirect_from:
-  - /resume
+  - /student
 ---
 
 {% include base_path %}
