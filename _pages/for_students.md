@@ -9,8 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-# SCU Undergraduate Students Interested in Summer Research
-
+SCU Undergraduate Students Interested in Summer Research
+<a name="summer-research"></a>
+----
 SCU offers funding opportunities for undergraduate students to participate in summer research programs.
 Please note that most funding applications for summer research are due in February during the Winter Quarter.
 To determine your eligibility for these opportunities, visit the following pages:
@@ -24,6 +25,7 @@ Therefore, I will have to screen applicants based on their motivation and the sp
 
 
 SCU Master’s Students Seeking Advice on Program of Study
+<a name="master-pos"></a>
 -----
 If you are a Master’s student in the Electrical and Computer Engineering (ECEN) department and have selected <em>Digital Systems</em> as your primary area of focus, it is required that you work with me to develop your Program of Study (PoS). You can download the PoS form [here](https://www.scu.edu/media/school-of-engineering/pdfs/graduate-engineering/ECEN-ENGINEERING-CORE-POS-FALL-2024.pdf).
 **Please create a draft version of your PoS and schedule an in-person meeting with me to review it.** This will ensure that your plan aligns with your academic and career goals while meeting department requirements. When drafting your Program of Study, keep the following considerations in mind:
@@ -36,6 +38,7 @@ If you are a Master’s student in the Electrical and Computer Engineering (ECEN
 Based on the sections completed above, you need to add up the units to create a plan to fulfill the 46-unit requirement. Further details can be discussed during an in-person meeting.
 
 Students Interested in Applying to Master’s or Ph.D. Programs
+<a name="applications"></a>
 -----
 Thank you for your interest. Due to the large number of applications I receive, I may not be able to respond to each inquiry individually. **Funded positions are available only when they are officially announced on my website.** If there is no such announcement and you do not receive a response from me after submitting an application, please consider it as an indication that I currently do not have funding available.
 
