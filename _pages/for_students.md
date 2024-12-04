@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-#SCU Undergraduate Students Interested in Summer Research
+# SCU Undergraduate Students Interested in Summer Research
 -----
 SCU offers funding opportunities for undergraduate students to participate in summer research programs.
 Please note that most funding applications for summer research are due in February during the Winter Quarter.
