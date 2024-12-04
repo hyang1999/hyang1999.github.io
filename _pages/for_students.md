@@ -35,7 +35,7 @@ If you are a Master’s student in the Electrical and Computer Engineering (ECEN
 
 Based on the sections completed above, you need to add up the units to create a plan to fulfill the 46-unit requirement. Further details can be discussed during an in-person meeting.
 
-Students Interested in Applying to Master’s or Ph.D. Programs<a name="applications"></a>
+Students Interested in Applying to Master’s or Ph.D. Programs at SCU<a name="applications"></a>
 -----
 Thank you for your interest. Due to the large number of applications I receive, I may not be able to respond to each inquiry individually. **Funded positions are available only when they are officially announced on my website.** If there is no such announcement and you do not receive a response from me after submitting an application, please consider it as an indication that I currently do not have funding available.
 
