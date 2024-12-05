@@ -21,6 +21,13 @@ If you are eligible, I encourage you to contact me to discuss your interest in s
 Please keep in mind that there is typically a limit on the number of proposals each faculty member can submit.
 Therefore, I will have to screen applicants based on their motivation and the specificity of their research ideas.
 
+Students Requesting a Recommendation/Endorsement Letter<a name="recommendation-letter"></a>
+----
+I am happy to write a recommendation or endorsement letter for students who have taken my course, been supervised by me for undergraduate research, or worked with me on a technical or educational activity. 
+If you would like me to write a letter, you must:
+1. Agree to waive your right to view the letter at a later time through the recommendation letter submission system.
+2. Request the letter at least two weeks before the due date.
+If you agree to these terms and wish to request a letter, please send me an email.
 
 
 SCU Master’s Students Seeking Advice on Program of Study<a name="master-pos"></a>
