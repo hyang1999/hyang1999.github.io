@@ -25,9 +25,10 @@ Students Requesting a Recommendation/Endorsement Letter<a name="recommendation-l
 ----
 I am happy to write a recommendation or endorsement letter for students who have taken my course, been supervised by me for undergraduate research, or worked with me on a technical or educational activity. 
 If you would like me to write a letter, you must:
-1. Agree to waive your right to view the letter at a later time through the recommendation letter submission system.
-2. Request the letter at least two weeks before the due date.
-If you agree to these terms and wish to request a letter, please send me an email.
+1. Agree to <em>waive your right to view the letter</em> at a later time through the recommendation letter submission system.
+2. Request the letter <em>at least two weeks before the deadline</em>.
+
+If you agree to these and wish to request a letter, please send me an email.
 
 
 SCU Master’s Students Seeking Advice on Program of Study<a name="master-pos"></a>
