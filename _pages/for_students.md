@@ -9,6 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
+## Table of Contents
+- [SCU Undergraduate Students Interested in Summer Research](#summer-research)
+- [Students Requesting a Recommendation/Endorsement Letter](#recommendation-letter)
+- [SCU Master’s Students Seeking Advice on Program of Study](#master-pos)
+- [Students Interested in Applying to Master’s or Ph.D. Programs at SCU](#applications)
+
+
 ## SCU Undergraduate Students Interested in Summer Research<a name="summer-research"></a>
 ---
 SCU offers funding opportunities for undergraduate students to participate in summer research programs.
