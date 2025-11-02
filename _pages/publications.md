@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-You can find the full list of my articles on [my Google Scholar profile](https://scholar.google.com/citations?hl=en&user=gmbtPpMAAAAJ).
+The full list can be found on [my Google Scholar profile](https://scholar.google.com/citations?hl=en&user=gmbtPpMAAAAJ).
   
 <!--
 {% if author.googlescholar %}
@@ -22,7 +22,7 @@ You can find the full list of my articles on [my Google Scholar profile](https:/
 Selected Publications
 ----
 * Je-Woo Jang, Junyong Oh, Youngbae Kong, Jae-Youn Hong, Sung-Hyuk Cho, Jeongyeol Lee, Hoeseok Yang, and Joon-Sung Yang, "Accelerating Retrieval Augmented Language Model via PIM and PNM Integration," in Proceedings of the 58th IEEE/ACM International Symposium on Microarchitecture (MICRO), October, 2025. [[link]](https://dl.acm.org/doi/full/10.1145/3725843.3756020) 
-* Hoeseok Yang, Hokeun Kim, Choonghwan Lee, and Hyung-Chan An, "Value-Aware Real-Time Scheduling for Intelligent Transportation Systems," in IEEE Embedded Systems Letters, 2025. [[link]](https://ieeexplore.ieee.org/document/11132899](https://ieeexplore.ieee.org/abstract/document/11121306)
+* Hoeseok Yang, Hokeun Kim, Choonghwan Lee, and Hyung-Chan An, "Value-Aware Real-Time Scheduling for Intelligent Transportation Systems," in IEEE Embedded Systems Letters, 2025. [[link]](https://ieeexplore.ieee.org/abstract/document/11121306)
 * Jiho Shin, Hoeseok Yang, and Youngmin Yi, "<em>Grasp</em>: Group-based Prediction of Activation Sparsity for Fast LLM Inference," in Proceedings of 2025 Design Automation Conference (DAC), 2025. [[link]](https://ieeexplore.ieee.org/document/11132899)
 * Jiho Shin, Hoeseok Yang, and Youngmin Yi, "<em>SparseInfer</em>: Training-free Prediction of Activation Sparsity for Fast LLM Inference," in Proceedings of 2025 Design, Automation & Test in Europe Conference & Exhibition (DATE), 2025. [[link]](https://ieeexplore.ieee.org/document/10992997)
 * Hokeun Kim, Younghyun Kim, and Hoeseok Yang, "Platform Design for Privacy-Preserving Federated Learning using Homomorphic Encryption," Forum on Specification, Verification and Design Languages (FDL), September, 2024. [[link]](https://ieeexplore.ieee.org/abstract/document/10673864)
