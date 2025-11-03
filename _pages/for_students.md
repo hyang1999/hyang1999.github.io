@@ -40,7 +40,7 @@ If you agree to these and wish to request a letter, please send me an email.
 
 ## SCU Master’s Students Seeking Advice on Program of Study<a name="master-pos"></a>
 -----
-If you are a Master’s student in the Electrical and Computer Engineering (ECEN) department and have selected <em>Digital Systems</em> as your primary area of focus, it is required that you work with me to develop your Program of Study (PoS). You can download the PoS form [here](https://www.scu.edu/media/school-of-engineering/pdfs/graduate-engineering/ECEN-ENGINEERING-CORE-POS-FALL-2024.pdf).
+If you are a Master’s student in the Electrical and Computer Engineering (ECEN) department and have selected <em>Digital Systems</em> as your primary area of focus, it is required that you work with me to develop your Program of Study (PoS). You can download the PoS form [here](https://www.scu.edu/media/school-of-engineering/pdfs/graduate-engineering/ECEN-POS-FALL-2025.pdf).
 **Please create a draft version of your PoS and schedule an in-person meeting with me to review it.** This will ensure that your plan aligns with your academic and career goals while meeting department requirements. When drafting your Program of Study, keep the following considerations in mind:
 1. Graduate Core Requirements: You must take at least one course from the two graduate core areas (minimum 4 units). You can find the list of the courses [here](https://www.scu.edu/bulletin/graduate/school-of-engineering/chapter-6-graduate-core-requirements-and-graduate-engineering.html#aca8c2afbf0e).
 2. Applied Math (AMTH): You must earn at least 4 units. See the list of the AMTH courses [here](https://www.scu.edu/engineering/academic-programs/department-of-applied-mathematics/graduate/courses/).
