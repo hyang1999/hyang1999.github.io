@@ -39,7 +39,7 @@ Work experience
 
 Publications
 -----
-Full publication list can be found [here](https://scholar.google.com/citations?hl=en&user=gmbtPpMAAAAJ).
+The full publication list can be found [here](https://scholar.google.com/citations?hl=en&user=gmbtPpMAAAAJ).
 
 Technical Service
 -----
@@ -50,6 +50,7 @@ Technical Service
   * International Symposium on Embedded Systems for Real-Time Multimedia (ESTIMedia, 2016-2017)
   * International Symposium/Workshop on Rapid System Prototyping (RSP, 2018-2022)
   * International Conference on Embedded Computer Systems: Architectures, Modeling and Simulation (IC-SAMOS, 2019-2022)
+  * Time-Centric Reactive Software (TCRS, 2024-2025)
 * Organizing Committee
   * IWCR (2017)
   * ESWEEK (2019-2022)
