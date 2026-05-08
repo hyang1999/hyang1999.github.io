@@ -44,13 +44,14 @@ The full publication list can be found [here](https://scholar.google.com/citatio
 Technical Service
 -----
 * Technical Program Committee
-  * Asia South Pacific Design Automation Conference (ASP-DAC, 2015-2017)
   * International Conference on Embedded and Ubiquitous Computing (EUC, 2014-2015)
+  * Asia South Pacific Design Automation Conference (ASP-DAC, 2015-2017)
   * Asia Pacific Conference on Circuits and Systems (APCCAS, 2016)
   * International Symposium on Embedded Systems for Real-Time Multimedia (ESTIMedia, 2016-2017)
   * International Symposium/Workshop on Rapid System Prototyping (RSP, 2018-2022)
   * International Conference on Embedded Computer Systems: Architectures, Modeling and Simulation (IC-SAMOS, 2019-2022)
   * Time-Centric Reactive Software (TCRS, 2024-2025)
+  * Design Automation Conference (DAC, 2026-)
 * Organizing Committee
   * IWCR (2017)
   * ESWEEK (2019-2022)
