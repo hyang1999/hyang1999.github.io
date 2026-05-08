@@ -21,7 +21,7 @@ The full list can be found on [my Google Scholar profile](https://scholar.google
 
 Selected Publications
 ----
-* Geunsoo Song, Hoeseok Yang, Youngmin Yi, “oFFN: Outlier and Neuron-aware Structured FFN for Fast yet Accurate LLM Inference,”  to appear in the Proceedings of Architectural Support for Programming Languages and Operating Systems (ASPLOS), Mar. 2026. [[link]](https://dl.acm.org/doi/abs/10.1145/3779212.3790194)
+* Geunsoo Song, Hoeseok Yang, Youngmin Yi, “oFFN: Outlier and Neuron-aware Structured FFN for Fast yet Accurate LLM Inference,” in the Proceedings of Architectural Support for Programming Languages and Operating Systems (ASPLOS), Mar. 2026. [[link]](https://dl.acm.org/doi/abs/10.1145/3779212.3790194)
 * Je-Woo Jang, Junyong Oh, Youngbae Kong, Jae-Youn Hong, Sung-Hyuk Cho, Jeongyeol Lee, Hoeseok Yang, and Joon-Sung Yang, "Accelerating Retrieval Augmented Language Model via PIM and PNM Integration," in Proceedings of the 58th IEEE/ACM International Symposium on Microarchitecture (MICRO), October, 2025. [[link]](https://dl.acm.org/doi/full/10.1145/3725843.3756020) 
 * Hoeseok Yang, Hokeun Kim, Choonghwan Lee, and Hyung-Chan An, "Value-Aware Real-Time Scheduling for Intelligent Transportation Systems," in IEEE Embedded Systems Letters, 2025. [[link]](https://ieeexplore.ieee.org/abstract/document/11121306)
 * Jiho Shin, Hoeseok Yang, and Youngmin Yi, "<em>Grasp</em>: Group-based Prediction of Activation Sparsity for Fast LLM Inference," in Proceedings of 2025 Design Automation Conference (DAC), 2025. [[link]](https://ieeexplore.ieee.org/document/11132899)
