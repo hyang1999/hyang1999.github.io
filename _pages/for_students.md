@@ -60,7 +60,7 @@ If you are a Master’s student in AI in the ECEN track, it is required that you
 2. AMTH 250 – Fundamental Mathematics for Artificial Intelligence is a required course. If you wish to request a waiver, please bring your transcript showing the mathematics courses and grades from your previous degree and discuss the possibility with me.
 3. AI Foundation Courses: Unless you have changed tracks during the program, you are required to follow the ECEN sequence listed in the second table: AMTH 370, ECEN 520, ECEN 521, and ECEN 522. Students who switched from CSEN to ECEN during the program should contact me separately for guidance.
 4. For ECEN electives, please refer to the [MS AI webpage](https://www.scu.edu/engineering/graduate/ms-ai/). You need to earn at least 16 units from this. If you need further guidance or advice, please feel free to contact me.
-5.For the AI Practicum, you may choose either a ECEN 495 Supervised Project (design/implementation-oriented) or ECEN 299 Directed Research (research-oriented).
+5. For the AI Practicum, you may choose either a ECEN 495 Supervised Project (design/implementation-oriented) or ECEN 299 Directed Research (research-oriented).
 6. You may also take additional ECEN or CSEN courses of your choice.
 7. Transfer Credits: If you wish to transfer credits from your BS or previous MS degree, complete this section. Please note that the credits that did not count towards your BS degree can only be transferred. If your BS degree was obtained from an institution other than SCU, make sure to bring your transcript when you come for advising. Please consult the [Graduate Office](https://www.scu.edu/phonebook/1347/Lanks-Lisa) to determine whether your credits are eligible for transfer.
 
