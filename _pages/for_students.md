@@ -69,7 +69,7 @@ Based on the sections completed above, you need to add up the units to create a 
 
 ## Research Participation Options for SCU Master's Students <a name="research"></a>
 ----
-SCU Master's students who are interested in participating in research activities can do so through two different pathways:
+SCU Master's students who are interested in participating in research activities may do so through one or both of the following arrangements:
 
 - **Research/Thesis Units**
 
