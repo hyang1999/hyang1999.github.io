@@ -79,7 +79,7 @@ SCU Master's students who are interested in participating in research activities
 
 - **If you already have a research topic in mind**: Please prepare and send me a brief research proposal (no more than one page) describing your proposed topic and research ideas.
 
-   Once we agree to proceed with a Research/Thesis unit, you must download and complete the required form ([https://www.scu.edu/media/school-of-engineering/pdfs/current-student-resources/graduate/Petition-for-Independent-Study-Directed-Reading-Directed-Research-3.17.25-.pdf]) and obtain my signature. The completed form must then be submitted for Department Chair approval.
+   Once we agree to proceed with a Research/Thesis unit, you must download and complete the required [form](https://www.scu.edu/media/school-of-engineering/pdfs/current-student-resources/graduate/Petition-for-Independent-Study-Directed-Reading-Directed-Research-3.17.25-.pdf) and obtain my signature. The completed form must then be submitted for Department Chair approval.
 
 2. **Research Assistant (RA) Positions**
 
