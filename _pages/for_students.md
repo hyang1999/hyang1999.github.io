@@ -59,7 +59,7 @@ If you are a Master’s student in AI in the ECEN track, it is required that you
 1. Graduate Core Requirements: You must take at least one course from the two graduate core areas (minimum 4 units). You can find the list of the courses [here](https://www.scu.edu/bulletin/graduate/school-of-engineering/chapter-6-graduate-core-requirements-and-graduate-engineering.html#e4e5bbe503c2).
 2. AMTH 250 – Fundamental Mathematics for Artificial Intelligence is a required course. If you wish to request a waiver, please bring your transcript showing the mathematics courses and grades from your previous degree and discuss the possibility with me.
 3. AI Foundation Courses: Unless you have changed tracks during the program, you are required to follow the ECEN sequence listed in the second table: AMTH 370, ECEN 520, ECEN 521, and ECEN 522. Students who switched from CSEN to ECEN during the program should contact me separately for guidance.
-4. For ECEN electives, please refer to [the MS AI webpage](https://www.scu.edu/engineering/graduate/ms-ai/). You need to earn at least 16 units from this. If you need further guidance or advice, please feel free to contact me.
+4. For ECEN electives, please refer to the [MS AI webpage](https://www.scu.edu/engineering/graduate/ms-ai/). You need to earn at least 16 units from this. If you need further guidance or advice, please feel free to contact me.
 5.For the AI Practicum, you may choose either a ECEN 495 Supervised Project (design/implementation-oriented) or ECEN 299 Directed Research (research-oriented).
 6. You may also take additional ECEN or CSEN courses of your choice.
 7. Transfer Credits: If you wish to transfer credits from your BS or previous MS degree, complete this section. Please note that the credits that did not count towards your BS degree can only be transferred. If your BS degree was obtained from an institution other than SCU, make sure to bring your transcript when you come for advising. Please consult the [Graduate Office](https://www.scu.edu/phonebook/1347/Lanks-Lisa) to determine whether your credits are eligible for transfer.
@@ -75,7 +75,7 @@ SCU Master's students who are interested in participating in research activities
 
    Students may enroll in Research/Thesis units to conduct research under faculty supervision. There are two possible starting points:
 
-- **If you are looking for a research topic**: Please do not contact me immediately to ask for a research topic. First, visit [the CoAI website](https://coai.scu.edu/) and review our recent research activities and publications. If you identify a research area that genuinely interests you, organize your thoughts and contact me with a brief explanation of your interests and potential research directions.
+- **If you are looking for a research topic**: Please do not contact me immediately to ask for a research topic. First, visit the [CoAI website](https://coai.scu.edu/) and review our recent research activities and publications. If you identify a research area that genuinely interests you, organize your thoughts and contact me with a brief explanation of your interests and potential research directions.
 
 - **If you already have a research topic in mind**: Please prepare and send me a brief research proposal (no more than one page) describing your proposed topic and research ideas.
 
