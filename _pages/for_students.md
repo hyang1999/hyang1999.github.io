@@ -12,8 +12,9 @@ redirect_from:
 ## Table of Contents
 - [SCU Undergraduate Students Interested in Summer Research](#summer-research)
 - [Students Requesting a Recommendation/Endorsement Letter](#recommendation-letter)
-- [SCU Master’s Students Seeking Advice on Program of Study (ECEN)](#master-pos-ecen)
-- [SCU Master’s Students Seeking Advice on Program of Study (AI - ECEN track)](#master-pos-ai)
+- [SCU ECEN (Digital Systems focus area) Master’s Students Seeking Advice on Program of Study](#master-pos-ecen)
+- [SCU MS AI (ECEN track) Students Seeking Advice on Program of Study](#master-pos-ai)
+- [Research Participation Options for SCU Master's Students](#research)
 - [Students Interested in Applying to Master’s or Ph.D. Programs at SCU](#applications)
 
 
@@ -39,7 +40,7 @@ If you would like me to write a letter, you must:
 If you agree to these and wish to request a letter, please send me an email.
 
 
-## SCU ECE Master’s Students Seeking Advice on Program of Study (ECEN) <a name="master-pos-ecen"></a>
+## SCU ECE Master’s Students Seeking Advice on Program of Study <a name="master-pos-ecen"></a>
 -----
 If you are a Master’s student in the Electrical and Computer Engineering (ECEN) department and have selected <em>Digital Systems</em> as your primary area of focus, it is required that you work with me to develop your Program of Study (PoS). You can download the PoS form [here](https://www.scu.edu/media/school-of-engineering/pdfs/current-student-resources/graduate/ECEN-POS.pdf).
 **Please create a draft version of your PoS and contact me for review.** This will ensure that your plan aligns with your academic and career goals while meeting department requirements. When drafting your Program of Study, keep the following considerations in mind:
@@ -51,7 +52,7 @@ If you are a Master’s student in the Electrical and Computer Engineering (ECEN
 
 Based on the sections completed above, you need to add up the units to create a plan to fulfill the 46-unit requirement.
 
-## SCU ECE Master’s Students Seeking Advice on Program of Study (ECEN) <a name="master-pos-ai"></a>
+## SCU MS AI (ECEN track) Students Seeking Advice on Program of Study <a name="master-pos-ai"></a>
 -----
 If you are a Master’s student in AI in the ECEN track, it is required that you work with me to develop your Program of Study (PoS). You can download the PoS form [here](https://www.scu.edu/media/school-of-engineering/pdfs/current-student-resources/graduate/AI-POS.pdf).
 **Please create a draft version of your PoS and contact me for review.** This will ensure that your plan aligns with your academic and career goals while meeting department requirements. When drafting your Program of Study, keep the following considerations in mind:
@@ -66,7 +67,25 @@ If you are a Master’s student in AI in the ECEN track, it is required that you
 Based on the sections completed above, you need to add up the units to create a plan to fulfill the 46-unit requirement.
 
 
-## Students Interested in Applying to Master’s or Ph.D. Programs at SCU<a name="applications"></a>
+## Research Participation Options for SCU Master's Students <a name="research"></a>
+----
+SCU Master's students who are interested in participating in research activities can do so through two different pathways:
+
+1. **Research/Thesis Units**
+
+Students may enroll in Research/Thesis units to conduct research under faculty supervision. There are two possible starting points:
+
+- **If you are looking for a research topic**: Please do not contact me immediately to ask for a research topic. First, visit [the CoAI website](https://coai.scu.edu/) and review our recent research activities and publications. If you identify a research area that genuinely interests you, organize your thoughts and contact me with a brief explanation of your interests and potential research directions.
+
+- **If you already have a research topic in mind**: Please prepare and send me a brief research proposal (no more than one page) describing your proposed topic and research ideas.
+
+Once we agree to proceed with a Research/Thesis unit, you must download and complete the required form ([https://www.scu.edu/media/school-of-engineering/pdfs/current-student-resources/graduate/Petition-for-Independent-Study-Directed-Reading-Directed-Research-3.17.25-.pdf]) and obtain my signature. The completed form must then be submitted for Department Chair approval.
+
+2. **Research Assistant (RA) Positions**
+
+Students may also participate in research as a paid Research Assistant (RA). These opportunities are intended for students who can pursue their studies on a full-time basis. They are not available to students who are enrolled part-time while maintaining outside employment. Students must apply for officially posted open positions and go through the selection process. An RA appointment is possible only after you have been selected and the arrangement has been discussed and agreed upon with me in advance.
+
+## Students Interested in Applying to Master’s or Ph.D. Programs at SCU <a name="applications"></a>
 -----
 Thank you for your interest. Due to the large number of applications I receive, I may not be able to respond to each inquiry individually. **Funded positions are available only when they are officially announced on my website.** If there is no such announcement and you do not receive a response from me after submitting an application, please consider it as an indication that I currently do not have funding available.
 
