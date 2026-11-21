@@ -73,17 +73,17 @@ SCU Master's students who are interested in participating in research activities
 
 1. **Research/Thesis Units**
 
-Students may enroll in Research/Thesis units to conduct research under faculty supervision. There are two possible starting points:
+   Students may enroll in Research/Thesis units to conduct research under faculty supervision. There are two possible starting points:
 
 - **If you are looking for a research topic**: Please do not contact me immediately to ask for a research topic. First, visit [the CoAI website](https://coai.scu.edu/) and review our recent research activities and publications. If you identify a research area that genuinely interests you, organize your thoughts and contact me with a brief explanation of your interests and potential research directions.
 
 - **If you already have a research topic in mind**: Please prepare and send me a brief research proposal (no more than one page) describing your proposed topic and research ideas.
 
-Once we agree to proceed with a Research/Thesis unit, you must download and complete the required form ([https://www.scu.edu/media/school-of-engineering/pdfs/current-student-resources/graduate/Petition-for-Independent-Study-Directed-Reading-Directed-Research-3.17.25-.pdf]) and obtain my signature. The completed form must then be submitted for Department Chair approval.
+   Once we agree to proceed with a Research/Thesis unit, you must download and complete the required form ([https://www.scu.edu/media/school-of-engineering/pdfs/current-student-resources/graduate/Petition-for-Independent-Study-Directed-Reading-Directed-Research-3.17.25-.pdf]) and obtain my signature. The completed form must then be submitted for Department Chair approval.
 
 2. **Research Assistant (RA) Positions**
 
-Students may also participate in research as a paid Research Assistant (RA). These opportunities are intended for students who can pursue their studies on a full-time basis. They are not available to students who are enrolled part-time while maintaining outside employment. Students must apply for officially posted open positions and go through the selection process. An RA appointment is possible only after you have been selected and the arrangement has been discussed and agreed upon with me in advance.
+   Students may also participate in research as a paid Research Assistant (RA). These opportunities are intended for students who can pursue their studies on a full-time basis. They are not available to students who are enrolled part-time while maintaining outside employment. Students must apply for officially posted open positions and go through the selection process. An RA appointment is possible only after you have been selected and the arrangement has been discussed and agreed upon with me in advance.
 
 ## Students Interested in Applying to Master’s or Ph.D. Programs at SCU <a name="applications"></a>
 -----
